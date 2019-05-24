@@ -995,10 +995,6 @@ class App(QMainWindow):
             print(stri)
 
         return super(App, self).eventFilter(obj, event)
-    # def focusOutEvent(self, event):
-    #     self.label.setText('Lost focus')
-    # def focusInEvent(self, event):
-    #     self.label.setText('Got focus')
 
     @pyqtSlot()
     def on_click(self):

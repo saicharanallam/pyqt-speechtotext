@@ -15,6 +15,6 @@ PyQt5==5.12.2
 PyQt5-sip==4.19.17
 pytz==2019.1
 requests==2.22.0
-rsa==4.0
+rsa==4.1
 six==1.12.0
 urllib3==1.25.2

@@ -28,7 +28,7 @@ pyasn1==0.4.5
 pyasn1-modules==0.2.5
 PyAudio==0.2.11
 pygame==1.9.6
-Pygments==2.4.0
+Pygments==2.7.4
 PyQt5==5.12.2
 PyQt5-sip==4.19.17
 pytz==2019.1
